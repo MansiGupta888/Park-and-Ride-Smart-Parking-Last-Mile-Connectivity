@@ -1,0 +1,33 @@
+/* Dashboard Page Styles */
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #e0f2fe;
+  padding: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #0c4a6e;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #0284c7;
+  color: white;
+  border-radius: 6px;
+}
+
+a:hover {
+  background-color: #0369a1;
+}
